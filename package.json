@@ -1,6 +1,6 @@
 {
   "name": "twitter-screen-name",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Extract a twitter screen name from a twitter URL or `@username` string. Return `null` if not valid.",
   "main": "index.js",
   "scripts": {
