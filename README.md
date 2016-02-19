@@ -1,4 +1,4 @@
-# twitter-screen-name [![Build Status](https://travis-ci.org/tableflip/twitter-screen-name.svg?branch=master)](https://travis-ci.org/tableflip/twitter-screen-name) [![Dependency Status](http://localhost:1337/tableflip/twitter-screen-name.svg)](http://localhost:1337/tableflip/twitter-screen-name)
+# twitter-screen-name [![Build Status](https://travis-ci.org/tableflip/twitter-screen-name.svg?branch=master)](https://travis-ci.org/tableflip/twitter-screen-name) [![Dependency Status](https://david-dm.org/tableflip/twitter-screen-name.svg)](https://david-dm.org/tableflip/twitter-screen-name)
 Extract a twitter screen name from a twitter URL or `@username` string. Return `null` if not valid.
 
 ## Example
